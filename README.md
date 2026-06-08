@@ -1,2 +1,2 @@
-# Huella Vital app-prototype
-Prototipo interactivo de alta fidelidad de la app de Huella Vital.
+# Huella Vital
+Prototipo interactivo de alta fidelidad de la app.
